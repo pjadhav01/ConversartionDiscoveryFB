@@ -1,0 +1,17 @@
+.result {
+    background-color: #f2f2f2;
+    padding: 1rem;
+    width: 50%;
+    border: 1px solid #562f72; }
+    .result__title {
+      color: #562f72;
+      font-weight: bold; }
+    .result__preview {
+      color: #562f72; }
+    .result__link {
+      color: #ba8ff7; }
+  
+  .result + .result {
+    margin-top: 0rem;
+    border-top: none; }
+  
